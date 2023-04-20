@@ -1,0 +1,9 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #ffe4e1;
+  color: #708090;
+  font-weight: 900;
+}
